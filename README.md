@@ -1,3 +1,5 @@
+Hi! 👋, I'm a software developer from <strong>Argentina</strong>, an innovative tech mind with <strong>3 years</strong> of experience in the field of software development. Capable of working with a variety of technology and software solution. Today I'm focusing on keeping learning weird technology stuff and grow both personally and professionally. ✨
+
 ![Codewars](https://www.codewars.com/users/Pshye18/badges/large)
 
 <table  border="0px">
