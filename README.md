@@ -1,6 +1,10 @@
 Hi! 👋, I'm a software developer from ![Argentinian Flag](https://www.printableworldflags.com/icon-flags/16/Argentina.png) (now in ![Spain Flag](https://www.printableworldflags.com/icon-flags/16/Spain.png)), an innovative tech mind with <strong>5 years</strong> of experience in the field of software development. Capable of working with a variety of technology and software solutions. Today I'm focusing on keeping learning awesome technology stuff and grow both, personal and professionally. ✨
 
-Langs: ![Spanish](https://www.printableworldflags.com/icon-flags/16/Spain.png) ▪ ![English](https://www.printableworldflags.com/icon-flags/16/United%20Kingdom.png) ▪ ![Portuguese](https://www.printableworldflags.com/icon-flags/16/Brazil.png) ▪ ![Italian](https://www.printableworldflags.com/icon-flags/16/Italy.png)
+Langs: 
+![Spanish](https://www.printableworldflags.com/icon-flags/16/Spain.png) 
+![English](https://www.printableworldflags.com/icon-flags/16/United%20Kingdom.png) 
+![Portuguese](https://www.printableworldflags.com/icon-flags/16/Brazil.png) 
+![Italian](https://www.printableworldflags.com/icon-flags/16/Italy.png)
 
 ![Codewars](https://www.codewars.com/users/Pshye18/badges/large)
 
