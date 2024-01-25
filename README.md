@@ -17,6 +17,8 @@ Langs: Spanish - English - Portuguese & Italian
     </tr>
     
 </table>
+<hr>
 
-<img src="https://profile-counter.glitch.me/{PsHye}/count.svg" alt="PsHye :: Visitor's Count" />
+### Visitor's Count
+<img src="https://profile-counter.glitch.me/{PsHye}/count.svg" alt="PsHye :: Visitor's Count" /> <img src="https://widgetbite.com/stats/{PsHye}" alt="watching_count" />
 
