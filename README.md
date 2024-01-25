@@ -2,6 +2,8 @@ Hi! 👋, I'm a software developer from Argentina (now in Spain), an innovative 
 
 Langs: Spanish - English - Portuguese & Italian
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PsHye&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ![Codewars](https://www.codewars.com/users/Pshye18/badges/large)
 
 <table  border="0px">
@@ -15,3 +17,6 @@ Langs: Spanish - English - Portuguese & Italian
     </tr>
     
 </table>
+
+<img src="https://profile-counter.glitch.me/{PsHye}/count.svg" alt="PsHye :: Visitor's Count" />
+
