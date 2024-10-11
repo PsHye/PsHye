@@ -1,4 +1,4 @@
-Hi! 👋, I'm a software developer from Argentina (now in Spain), an innovative tech mind with <strong>5 years</strong> of experience in the field of software development. Capable of working with a variety of technology and software solutions. Today I'm focusing on keeping learning awesome technology stuff and grow both, personal and professionally. ✨
+Hi! 👋, I'm a software developer from Argentina (now in Spain), an innovative tech mind with <strong>7 years</strong> of experience in the field of software development. Capable of working with a variety of technology and software solutions. Today I'm focusing on keeping learning awesome technology stuff and grow both, personal and professionally. ✨
 
 <div style="display: flex; align-items: center;">
     <span style="font-size: 18px; margin-right: 10px;">Langs:</span>
